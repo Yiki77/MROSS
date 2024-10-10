@@ -10,9 +10,9 @@
 
 It's my first paper submission as the first author
 
-❗ I record this **bad experience** here to remind myself all the time ❗
+❗ I record this **Bad Experience** here to remind myself all the time ❗
 
-But I think the work is still meaningful. 
+But I think this work is still very meaningful and worth recording.
 
 MROSS significantly contributes to multimedia processing by introducing a novel approach for scene sketching that leverages semantic understanding and multi-round optimization techniques. MROSS not only enhances the quality and quantity of generated scene sketches but also facilitates efficient processing of multimedia data by providing a systematic framework for abstracting complex scenes into simplified representations. As a result, MROSS could offer valuable insights and techniques that can be applied across various multimedia tasks, including image understanding, content summarization, and visual communication, thereby advancing the field of multimedia processing.
 

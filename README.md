@@ -29,7 +29,6 @@ This is the official implementation of MROSS, a method for converting a scene im
 <br>
 <br>
 
-    
 <br>
 
 ## Installation
@@ -54,9 +53,7 @@ cd diffvg
 git submodule update --init --recursive
 python setup.py install
 ```
-
 <br>
-
 ## Usage
 
 <!-- #### Run a model on your own image -->
@@ -98,7 +95,7 @@ https://github.com/user-attachments/assets/d7b7a678-55d2-496e-a3d8-30bfc78c2f8a
 
 [CLIPascene](https://arxiv.org/abs/2211.17256): Scene Sketching with Different Types and Levels of Abstraction, 2023 (Yael Vinker, Yuval Alaluf, Daniel Cohen-Or, Ariel Shamir)
 
-
+**We sincerely thank Clipasso for its open source code**
 ## Citation
 If you make use of our work, please cite our paper:
 

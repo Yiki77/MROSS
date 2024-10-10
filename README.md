@@ -1,7 +1,26 @@
-# MROSS:Multi-Round Region-based Optimization for Scene Sketching (AAAI 2024)
+# MROSS:Multi-Round Region-based Optimization for Scene Sketching
 
 [![arXiv](https://img.shields.io/badge/arXiv-2410.04072-b31b1b.svg)](https://arxiv.org/abs/2410.04072)
 
+😊 2023.12.9 Accepted by AAAI2024！！！
+
+😭 2023.12.26 Rejected due to violation of dual submission policy
+
+（A moment of negligence leads to a big mistake）
+
+It's my first paper submission as the first author
+
+❗ I record this **bad experience** here to remind myself all the time ❗
+
+But I think the work is still meaningful. 
+
+MROSS significantly contributes to multimedia processing by introducing a novel approach for scene sketching that leverages semantic understanding and multi-round optimization techniques. MROSS not only enhances the quality and quantity of generated scene sketches but also facilitates efficient processing of multimedia data by providing a systematic framework for abstracting complex scenes into simplified representations. As a result, MROSS could offer valuable insights and techniques that can be applied across various multimedia tasks, including image understanding, content summarization, and visual communication, thereby advancing the field of multimedia processing.
+
+![](repo_images/teaser.jpg?raw=true)
+The first row shows our sketch results. Our sketch depicts the input scene image concisely and comprehensively, and
+can be generated in vector form, which can be easily used by designers for further editing. The second row shows two examples
+showing the resulting process sketches for each of our multi-round optimization, gaining the ”coarse to concrete” sketches
+without changing the total number of strokes.
 
 <br>
 <br>
@@ -10,11 +29,6 @@ This is the official implementation of MROSS, a method for converting a scene im
 <br>
 <br>
 
-![](repo_images/teaser.jpg?raw=true)
-The first row shows our sketch results. Our sketch depicts the input scene image concisely and comprehensively, and
-can be generated in vector form, which can be easily used by designers for further editing. The second row shows two examples
-showing the resulting process sketches for each of our multi-round optimization, gaining the ”coarse to concrete” sketches
-without changing the total number of strokes.
     
 <br>
 
@@ -27,8 +41,8 @@ cd CLIPasso
 ```
 2. Create a new environment and install the libraries:
 ```bash
-python3.7 -m venv clipsketch
-source clipsketch/bin/activate
+python3.7 -m venv Mross
+source Mross/bin/activate
 pip install -r requirements.txt
 pip install torch==1.7.1+cu101 torchvision==0.8.2+cu101 -f https://download.pytorch.org/whl/torch_stable.html
 pip install git+https://github.com/openai/CLIP.git

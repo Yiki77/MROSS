@@ -23,10 +23,7 @@ showing the resulting process sketches for each of our multi-round optimization,
 without changing the total number of strokes.
 
 <br>
-<br>
-This is the official implementation of MROSS, a method for converting a scene image to a sketching, keeping the basic features of scene . <br>
-
-<br>
+**This is the official implementation of MROSS, a method for converting a scene image to a sketching, keeping the basic features of scene.** <br>
 <br>
 
 <br>

@@ -79,7 +79,8 @@ python run_scene_sketching.py --target scene32.png --region_round 1 --num_stroke
 
 ## Visual Results
 
-https://github.com/user-attachments/assets/40455aa7-53e8-4398-8179-dce31eca7598
+https://github.com/user-attachments/assets/09159774-b5a2-41e4-9fe6-2305fb892132
+
 
 
 

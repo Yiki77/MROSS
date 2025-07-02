@@ -78,7 +78,10 @@ python run_scene_sketching.py --target scene32.png --region_round 1 --num_stroke
 <br> The abstraction degree is controlled by varying the number of strokes.
 
 ## Visual Results
-https://github.com/Yiki77/MROSS/tree/main/repo_images/scene32.mp4
+
+https://github.com/user-attachments/assets/40455aa7-53e8-4398-8179-dce31eca7598
+
+
 
 https://github.com/user-attachments/assets/9ab2e278-c459-44c9-bdd8-f0bfe24baef2
 

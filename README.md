@@ -77,17 +77,6 @@ python run_scene_sketching.py --target scene32.png --region_round 1 --num_stroke
 ```
 <br> The abstraction degree is controlled by varying the number of strokes.
 
-## Visual Results
-
-https://github.com/user-attachments/assets/09159774-b5a2-41e4-9fe6-2305fb892132
-
-
-
-
-https://github.com/user-attachments/assets/9ab2e278-c459-44c9-bdd8-f0bfe24baef2
-
-https://github.com/user-attachments/assets/d7b7a678-55d2-496e-a3d8-30bfc78c2f8a
-
 
 ## Related Work
 [Diffvg](https://github.com/BachiLi/diffvg): Differentiable vector graphics rasterization for editing and learning, ACM Transactions on Graphics 2020 (Tzu-Mao Li, Michal Lukáč, Michaël Gharbi, Jonathan Ragan-Kelley)
